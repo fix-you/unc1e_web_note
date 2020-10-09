@@ -1,5 +1,5 @@
 # CISCN2020 Final  Monster Battle
-这是源码, 先`npm install`安装依赖, 再`node app.js`运行环境即可
+这是源码[传送门](./web2-src.zip), 先`npm install`安装依赖, 再`node app.js`运行环境即可
 题目给了源码, 打斗的逻辑并不复杂, 关键部分其实主要就下面这些
 ```js
 
